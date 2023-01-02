@@ -24,5 +24,12 @@ public class windowPopUp {
 		
 		
 	}
+	
+	public void getdata()
+	{
+		
+		System.out.println("OK");
+		System.out.println("Yes");
+	}
 
 }
