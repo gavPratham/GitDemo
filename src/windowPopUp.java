@@ -19,6 +19,10 @@ public class windowPopUp {
 		driver.findElement(By.linkText("Basic Auth")).click();
 		System.out.println("Done");
 
+		System.out.println("OK");
+		System.out.println("Passed");
+		
+		
 	}
 
 }
