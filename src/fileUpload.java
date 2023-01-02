@@ -18,6 +18,8 @@ public class fileUpload {
 		Thread.sleep(3000);
 		Runtime.getRuntime().exec("C:\\Visit\\Autoit1.exe");
 		
+		System.out.println("Done");
+		
 	}
 
 }
