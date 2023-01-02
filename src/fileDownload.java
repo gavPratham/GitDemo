@@ -50,6 +50,9 @@ public static void main(String[] args) throws InterruptedException, IOException 
 				System.out.println("file deleted");
 				System.out.println("file Absent");
 				System.out.println("file Remove");
+				
+				System.out.println("file AB");
+				System.out.println("file RM");
 		}
 	}
 }
