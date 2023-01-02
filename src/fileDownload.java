@@ -48,6 +48,8 @@ public static void main(String[] args) throws InterruptedException, IOException 
 			Assert.assertTrue(f.exists());
 			if(f.delete())
 				System.out.println("file deleted");
+				System.out.println("file Absent");
+				System.out.println("file Remove");
 		}
 	}
 }
