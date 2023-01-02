@@ -18,7 +18,12 @@ public class fileUpload {
 		Thread.sleep(3000);
 		Runtime.getRuntime().exec("C:\\Visit\\Autoit1.exe");
 		
+<<<<<<< HEAD
 		System.out.println("Done");
+=======
+		System.out.println("OK");
+		System.out.println("Yes");
+>>>>>>> branch
 		
 	}
 
