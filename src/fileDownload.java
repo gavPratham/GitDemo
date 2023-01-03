@@ -16,8 +16,9 @@ public class fileDownload {
 	public void getdata()
 	{
 		
-		System.out.println("OK");
+		System.out.println("OK1");
 		System.out.println("Yes");
+		System.out.println("Yes1");
 	}
 	
 public static void main(String[] args) throws InterruptedException, IOException {
