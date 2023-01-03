@@ -17,16 +17,15 @@ public class fileUpload {
 		driver.findElement(By.id("pickfiles")).click();
 		Thread.sleep(3000);
 		Runtime.getRuntime().exec("C:\\Visit\\Autoit1.exe");
+	
+	}
+	
+	public void getdata()
+	{
 		
-<<<<<<< HEAD
-		System.out.println("Done");
-=======
-		System.out.println("OK");
-		System.out.println("Yes");
->>>>>>> branch
-		
-
-		
+		System.out.println("OK5");
+		System.out.println("Yes5");
+		System.out.println("Yes3");
 	}
 
 }
