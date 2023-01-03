@@ -21,6 +21,13 @@ public class fileDownload {
 		System.out.println("Yes1");
 	}
 	
+	public void getdata2()
+	{
+		
+		System.out.println("Yes5");
+		System.out.println("Yes5");
+	}
+	
 public static void main(String[] args) throws InterruptedException, IOException {
 // TODO Auto-generated method stub
 
