@@ -24,5 +24,13 @@ public class fileUpload {
 
 		
 	}
+	
+	public void getdata()
+	{
+		
+		System.out.println("OK5");
+		System.out.println("Yes5");
+		System.out.println("Yes3");
+	}
 
 }
